@@ -63,7 +63,7 @@ export default function AppContact() {
           <ul>
             <li>
               <i className="fas fa-envelope"></i>
-              mallika.eisystems@gmail.com
+              Rahul@gmail.com
             </li>
             <li>
               <i className="fas fa-phone"></i>
